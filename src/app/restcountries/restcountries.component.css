@@ -1,0 +1,11 @@
+.countryName{
+    color: blue; 
+    display: block;
+    margin-top: 10px;
+}
+.population{
+    color:orange; 
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}

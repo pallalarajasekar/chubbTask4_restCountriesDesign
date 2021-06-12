@@ -1,0 +1,42 @@
+[
+    {
+        "imageName": "Image1",
+        "container": "container1",
+        "host": "ip-10.102.70.1",
+        "tag": "1.5.1",
+        "clustername": "cluster1",
+        "high": 30,
+        "medium": 45,
+        "low": 25
+    },
+    {
+        "imageName": "Image2",
+        "container": "container2",
+        "host": "ip-10.102.70.2",
+        "tag": "1.5.2",
+        "clustername": "cluster2",
+        "high": 40,
+        "medium": 20,
+        "low": 35
+    },
+    {
+        "imageName": "Image3",
+        "container": "container3",
+        "host": "ip-10.102.70.3",
+        "tag": "1.5.3",
+        "clustername": "cluster3",
+        "high": 45,
+        "medium": 60,
+        "low": 10
+    },
+    {
+        "imageName": "Image4",
+        "container": "container4",
+        "host": "ip-10.102.70.4",
+        "tag": "1.5.4",
+        "clustername": "cluster4",
+        "high": 30,
+        "medium": 25,
+        "low": 30
+    }
+  ]
